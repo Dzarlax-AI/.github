@@ -10,7 +10,7 @@ Personal AI-powered ecosystem — assistants, memory, health tracking and intell
 
 ### AI-Powered Data
 - **[Health Dashboard](https://github.com/Dzarlax-AI/health_dashboard)** — Apple Health data ingestion, sleep/HR/HRV/SpO2 tracking, readiness scoring, web UI and MCP server for AI assistants
-- **[Evening News](https://github.com/Dzarlax-AI/RSS-summuriser)** — News aggregator: RSS feeds, web scraping, LLM summarization and categorization
+- **[Evening News](https://github.com/Dzarlax-AI/evening-news)** — News aggregator: RSS feeds, web scraping, LLM summarization and categorization
 
 ### Integrations
 - **[Streamdeck AI Plugin](https://github.com/Dzarlax-AI/Streamdeck-AI-plugin)** — Stream Deck integration for AI assistants
