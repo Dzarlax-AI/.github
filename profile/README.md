@@ -1,6 +1,6 @@
 # Dzarlax AI
 
-Personal AI-powered ecosystem — assistants, memory, health tracking and intelligent information processing. Self-hosted on Hetzner VPS + Synology NAS.
+Personal AI-powered ecosystem — assistants, memory, health tracking and intelligent information processing. Self-hosted on a VPS with NAS backup.
 
 ## Projects
 
