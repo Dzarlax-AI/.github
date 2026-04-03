@@ -13,6 +13,7 @@ Personal AI-powered ecosystem — assistants, memory, health tracking and intell
 - **[Evening News](https://github.com/Dzarlax-AI/evening-news)** — News aggregator: RSS feeds, web scraping, LLM summarization and categorization
 
 ### Integrations
+- **[Granola Drive Sync](https://github.com/Dzarlax-AI/granola-drive-sync)** — Syncs Granola meeting notes to Google Drive as Markdown files
 - **[Streamdeck AI Plugin](https://github.com/Dzarlax-AI/Streamdeck-AI-plugin)** — Stream Deck integration for AI assistants
 
 ## Stack
